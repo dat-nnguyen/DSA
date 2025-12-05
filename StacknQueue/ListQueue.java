@@ -5,7 +5,7 @@ import List.Node;
 public class ListQueue {
     private Node front;
     private Node rear;
-    private int size; // Thêm biến size để quản lý kích thước (tùy chọn nhưng hữu ích)
+    private int size; // Thêm biến size để quản lý kích thước
 
     public ListQueue() {
         front = null;

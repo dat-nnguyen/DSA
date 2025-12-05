@@ -1,4 +1,4 @@
-//package MapnSet;
+package MapnSet;//package MapnSet;
 
 import java.util.Scanner;
 import java.util.*;
