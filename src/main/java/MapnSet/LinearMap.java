@@ -1,6 +1,6 @@
 package MapnSet;
 
-import javax.print.attribute.standard.MediaSize;
+
 import java.util.ArrayList;
 
 public class LinearMap {

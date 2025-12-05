@@ -102,7 +102,7 @@ public class MergeSort {
                 arr[j + 1] = arr[j];
                 j--;
             }
-            arr[j + 1] = curr;
+            arr[j + 1] = curr;w
         }
     }
 }
